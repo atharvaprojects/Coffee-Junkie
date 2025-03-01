@@ -13,7 +13,7 @@ A simple website for coffee lovers!
  
 
 ## 🔗 Live Website  
-Hosted using **GitHub Pages** (Link provided below after deployment).  
+Hosted using **GitHub Pages** (https://atharvaprojects.github.io/Coffee-Junkie/).  
 
 ## 👨‍💻 How to Contribute?  
 1. Fork this repository  
